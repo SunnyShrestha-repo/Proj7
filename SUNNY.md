@@ -2,6 +2,6 @@
 for our budgeting app
 
 some edits
-Brad
+brad
 jyoti
 safath
