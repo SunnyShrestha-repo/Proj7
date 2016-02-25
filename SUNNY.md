@@ -2,8 +2,6 @@
 for our budgeting app
 
 <<<<<<< HEAD
-undo
-=======
 some edits
 brad
 jyoti
